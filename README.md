@@ -17,6 +17,9 @@ The project implements a singly linked list structure with the following operati
 5. **Traversal:** Display all elements of the linked list.
 6. **Search:** Search for an element in the list.
 
+## Project Background
+This project was developed as part of the 1st-semester coursework.
+
 ## Getting Started
 1. Download the project files.
 2. Navigate to the project directory.
